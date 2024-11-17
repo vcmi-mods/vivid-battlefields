@@ -1,0 +1,167 @@
+{
+	"core:creatureGeneratorCommon": {
+		"types": {
+
+//castle			
+			"guardhouse": {
+				"guards" : true
+			},
+			"archersTower": {
+				"guards" : true
+			},
+			"griffinTower": {
+				"guards" : true
+			},
+			"barracks": {
+				"guards" : true
+			},
+			
+//rampart			
+			"centaurStables": {
+				"guards" : true
+			},
+			"dwarfCottage": {
+				"guards" : true
+			},
+			"homestead": {
+				"guards" : true
+			},
+			"enchantedSpring": {
+				"guards" : true
+			},
+			
+//tower			
+			"workshop": {
+				"guards" : true
+			},
+			"parapet": {
+				"guards" : true
+			},
+			"mageTower": {
+				"guards" : true
+			},
+
+			
+//inferno			
+			"impCrucible": {
+				"guards" : true
+			},
+			"hallOfSins": {
+				"guards" : true
+			},
+			"kennels": {
+				"guards" : true
+			},
+			"demonGate": {
+				"guards" : true
+			},
+			
+//necropolis			
+			"cursedTemple": {
+				"guards" : true
+			},
+			"graveyard": {
+				"guards" : true
+			},
+			"tombOfSouls": {
+				"guards" : true
+			},
+			"estate": {
+				"guards" : true
+			},
+
+			
+//dungeon			
+			"warren": {
+				"guards" : true
+			},
+			"harpyLoft": {
+				"guards" : true
+			},
+			"pillarOfEyes": {
+				"guards" : true
+			},
+			"medusaChapel": {
+				"guards" : true
+			},
+			
+			
+//stronghold			
+			"goblinBarracks": {
+				"guards" : true
+			},
+			"wolfPen": {
+				"guards" : true
+			},
+			"orcTower": {
+				"guards" : true
+			},
+			"ogreFort": {
+				"guards" : true
+			},
+			
+//fortress			
+			"gnollHut": {
+				"guards" : true
+			},
+			"lizardDen": {
+				"guards" : true
+			},
+			"serpentFlyHive": {
+				"guards" : true
+			},
+			"basiliskPit": {
+				"guards" : true
+			},
+
+//conflux			
+			"magicLantern": {
+				"guards" : true
+			},
+			"altarOfAir": {
+				"guards" : true
+			},
+			"altarOfWater": {
+				"guards" : true
+			},
+			"altarOfFire": {
+				"guards" : true
+			},
+
+
+//neutral			
+			"treetopTower": {
+				"guards" : true
+			},
+			"thatchedHut": {
+				"guards" : true
+			},
+			"hovel": {
+				"guards" : true
+			},
+			"boarGlen": {
+				"guards" : true
+			},
+			"tombOfCurses": {
+				"guards" : true
+			},
+			"nomadTent": {
+				"guards" : true
+			},
+			"rogueCavern": {
+				"guards" : true
+			}					
+		}
+	},
+	
+	"core:creatureGeneratorSpecial": {
+		"types": {
+			"golemFactory": {
+//				"guards" : true
+			},
+			"elementalConflux": {
+//				"guards" : true
+			}
+		}
+	}
+}

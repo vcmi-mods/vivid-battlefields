@@ -1,0 +1,332 @@
+{
+	"core:creatureGeneratorCommon": {
+		"types": {
+
+//castle			
+			"guardhouse": {
+				"battleground": "vivid-battlefields:guardhouse"
+			},
+			"archersTower": {
+				"battleground": "vivid-battlefields:archers_tower"
+			},
+			"griffinTower": {
+				"battleground": "vivid-battlefields:griffin_tower"
+			},
+			"barracks": {
+				"battleground": "vivid-battlefields:barracks"
+			},
+			"monastery": {
+				"battleground": "vivid-battlefields:monastery"
+			},
+			"trainingGrounds": {
+				"battleground": "vivid-battlefields:training_grounds"
+			},
+			"portalOfGlory": {
+				"battleground": "vivid-battlefields:portal_of_glory"
+			},
+			
+//rampart			
+			"centaurStables": {
+				"battleground": "vivid-battlefields:centaur_stables"
+			},
+			"dwarfCottage": {
+				"battleground": "vivid-battlefields:dwarf_cottage"
+			},
+			"homestead": {
+				"battleground": "vivid-battlefields:homestead"
+			},
+			"enchantedSpring": {
+				"battleground": "vivid-battlefields:enchanted_spring"
+			},
+			"dendroidArches": {
+				"battleground": "vivid-battlefields:dendroid_arches"
+			},
+			"unicornGlade": {
+				"battleground": "vivid-battlefields:unicorn_glade"
+			},
+			"unicornGladeBig": {
+				"battleground": "vivid-battlefields:unicorn_glade"
+			},
+			"dragonCliffs": {
+				"battleground": "vivid-battlefields:dragon_cliffs"
+			},
+			
+//tower			
+			"workshop": {
+				"battleground": "vivid-battlefields:workshop"
+			},
+			"parapet": {
+				"battleground": "vivid-battlefields:parapet"
+			},
+			"mageTower": {
+				"battleground": "vivid-battlefields:mage_tower"
+			},
+			"altarOfWishes": {
+				"battleground": "vivid-battlefields:altar_of_wishes"
+			},
+			"goldenPavilion": {
+				"battleground": "vivid-battlefields:golden_pavilion"
+			},
+			"cloudTemple": {
+				"battleground": "vivid-battlefields:cloud_temple"
+			},
+			
+//inferno			
+			"impCrucible": {
+				"battleground": "vivid-battlefields:imp_crucible"
+			},
+			"hallOfSins": {
+				"battleground": "vivid-battlefields:hall_of_sins"
+			},
+			"kennels": {
+				"battleground": "vivid-battlefields:kennels"
+			},
+			"demonGate": {
+				"battleground": "vivid-battlefields:demon_gate"
+			},
+			"hellHole": {
+				"battleground": "vivid-battlefields:hell_hole"
+			},
+			"fireLake": {
+				"battleground": "vivid-battlefields:fire_lake"
+			},
+			"forsakenPalace": {
+				"battleground": "vivid-battlefields:forsaken-palace"
+			},
+			
+//necropolis			
+			"cursedTemple": {
+				"battleground": "vivid-battlefields:cursed_temple"
+			},
+			"graveyard": {
+				"battleground": "vivid-battlefields:graveyard"
+			},
+			"tombOfSouls": {
+				"battleground": "vivid-battlefields:tomb_of_souls"
+			},
+			"estate": {
+				"battleground": "vivid-battlefields:estate"
+			},
+			"mausoleum": {
+				"battleground": "vivid-battlefields:mausoleum"
+			},
+			"hallOfDarkness": {
+				"battleground": "vivid-battlefields:hall_of_darkness"
+			},
+			"dragonVault": {
+				"battleground": "vivid-battlefields:dragon_vault"
+			},
+			
+//dungeon			
+			"warren": {
+				"battleground": "vivid-battlefields:warren"
+			},
+			"harpyLoft": {
+				"battleground": "vivid-battlefields:harpy_loft"
+			},
+			"pillarOfEyes": {
+				"battleground": "vivid-battlefields:pillar_of_eyes"
+			},
+			"medusaChapel": {
+				"battleground": "vivid-battlefields:medusa_chapel"
+			},
+			"labyrinth": {
+				"battleground": "vivid-battlefields:labyrinth"
+			},
+			"manticoreLair": {
+				"battleground": "vivid-battlefields:manticore_lair"
+			},
+			"dragonCave": {
+				"battleground": "vivid-battlefields:dragon_cave"
+			},			
+			
+//stronghold			
+			"goblinBarracks": {
+				"battleground": "vivid-battlefields:goblin_barracks"
+			},
+			"wolfPen": {
+				"battleground": "vivid-battlefields:wolf_pen"
+			},
+			"orcTower": {
+				"battleground": "vivid-battlefields:orc_tower"
+			},
+			"ogreFort": {
+				"battleground": "vivid-battlefields:ogre_fort"
+			},
+			"cliffNest": {
+				"battleground": "vivid-battlefields:cliff_nest"
+			},
+			"cyclopsCave": {
+				"battleground": "vivid-battlefields:cyclops_cave"
+			},
+			"behemothCrag": {
+				"battleground": "vivid-battlefields:behemoth_crag"
+			},
+			
+//fortress			
+			"gnollHut": {
+				"battleground": "vivid-battlefields:gnoll_hut"
+			},
+			"lizardDen": {
+				"battleground": "vivid-battlefields:lizard_den"
+			},
+			"serpentFlyHive": {
+				"battleground": "vivid-battlefields:serpent_fly_hive"
+			},
+			"basiliskPit": {
+				"battleground": "vivid-battlefields:basilisk_pit"
+			},
+			"gorgonLair": {
+				"battleground": "vivid-battlefields:gorgon_lair"
+			},
+			"wyvernNest": {
+				"battleground": "vivid-battlefields:wyvern_nest"
+			},
+			"hydraPond": {
+				"battleground": "vivid-battlefields:hydra_pond"
+			},
+
+//conflux			
+			"magicLantern": {
+				"battleground": "vivid-battlefields:magic_lantern"
+			},
+			"altarOfAir": {
+				"battleground": "vivid-battlefields:altar_of_air"
+			},
+			"altarOfWater": {
+				"battleground": "vivid-battlefields:altar_of_water"
+			},
+			"altarOfFire": {
+				"battleground": "vivid-battlefields:altar_of_fire"
+			},
+			"altarOfEarth": {
+				"battleground": "vivid-battlefields:altar_of_earth"
+			},
+			"altarOfThought": {
+				"battleground": "vivid-battlefields:altar_of_thought"
+			},
+			"pyre": {
+				"battleground": "vivid-battlefields:pyre"
+			},
+
+//neutral			
+			"frozenCliffs": {
+				"battleground": "vivid-battlefields:frozen_cliffs"
+			},
+			"crystalCavern": {
+				"battleground": "vivid-battlefields:crystal_cavern"
+			},
+			"magicForest": {
+				"battleground": "vivid-battlefields:magic_forest"
+			},
+			"sulfurousLair": {
+				"battleground": "vivid-battlefields:sulfurous_lair"
+			},
+			"enchantersHollow": {
+				"battleground": "vivid-battlefields:enchanters_hollow"
+			},
+			"treetopTower": {
+				"battleground": "vivid-battlefields:treetop_tower"
+			},
+			"thatchedHut": {
+				"battleground": "vivid-battlefields:thatched_hut"
+			},
+			"hovel": {
+				"battleground": "vivid-battlefields:hovel"
+			},
+			"boarGlen": {
+				"battleground": "vivid-battlefields:boar_glen"
+			},
+			"tombOfCurses": {
+				"battleground": "vivid-battlefields:tomb_of_curses"
+			},
+			"nomadTent": {
+				"battleground": "vivid-battlefields:nomad_tent"
+			},
+			"rogueCavern": {
+				"battleground": "vivid-battlefields:rogue_cavern"
+			},
+			"trollBridge": {
+				"battleground": "vivid-battlefields:troll_bridge"
+			}					
+		}
+	},
+	
+	"core:creatureGeneratorSpecial": {
+		"types": {
+			"golemFactory": {
+				"battleground": "vivid-battlefields:golem_factory"
+			},
+			"elementalConflux": {
+				"battleground": "vivid-battlefields:elemental_conflux"
+			}
+		}
+	},
+	
+//banks
+	"core:creatureBank" : {
+		"types" : {
+			"cyclopsStockpile" : {
+				"battleground": "vivid-battlefields:cyclops_stockpile"
+			},
+			"dwarvenTreasury" : {
+				"battleground": "vivid-battlefields:dwarven_treasury"
+			},
+			"griffinConservatory" : {
+				"battleground": "vivid-battlefields:griffin_conservatory"
+			},
+			"inpCache" : {
+				"battleground": "vivid-battlefields:imp_cache"
+			},
+			"medusaStore" : {
+				"battleground": "vivid-battlefields:medusa_store"
+			},
+			"nagaBank" : {
+				"battleground": "vivid-battlefields:naga_bank"
+			},
+			"dragonFlyHive" : {
+				"battleground": "vivid-battlefields:dragon_fly_hive"
+			}	
+		}
+	},
+		
+	"core:shipwreck" : {
+		"types" : {
+			"shipwreck" : {
+				"battleground": "vivid-battlefields:shipwreck"
+			}
+		}
+	},
+	
+//	"core:derelictShip" : {
+//		"types" : {
+//			"derelictShip" : {
+//				"battleground": "vivid-battlefields:derelict_ship"
+//			}
+//		}
+//	},
+
+	"core:crypt" : {
+		"types" : {
+			"crypt" : {
+				"battleground": "vivid-battlefields:crypt"
+			}
+		}
+	},	
+	
+	"core:dragonUtopia" : {
+		"types" : {
+			"dragonUtopia" : {
+				"battleground": "vivid-battlefields:dragon_utopia"
+			}
+		}
+	},
+
+	"core:pyramid" : {
+		"types" : {
+			"pyramid" : {
+				"battleground": "vivid-battlefields:pyramid"
+			}
+		}
+	}		
+}

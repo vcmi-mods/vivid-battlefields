@@ -1,0 +1,377 @@
+{
+//castle
+	"guardhouse": {
+		"graphics": "castle/guardhouse.png",
+		"isSpecial" : true
+	},
+	"archers_tower": {
+		"graphics": "castle/archers_tower.png",
+		"isSpecial" : true
+	},
+	"griffin_tower": {
+		"graphics": "castle/griffin_tower.png",
+		"isSpecial" : true
+	},
+	"barracks": {
+		"graphics": "castle/barracks.png",
+		"isSpecial" : true
+	},
+	"monastery": {
+		"graphics": "castle/monastery.png",
+		"isSpecial" : true
+	},	
+	"training_grounds": {
+		"graphics": "castle/training_grounds.png",
+		"isSpecial" : true
+	},
+	"portal_of_glory": {
+		"graphics": "castle/portal_of_glory.png",
+		"isSpecial" : true
+	},
+	
+//rampart
+	"centaur_stables": {
+		"graphics": "rampart/centaur_stables.png",
+		"isSpecial" : true
+	},
+	"dwarf_cottage": {
+		"graphics": "rampart/dwarf_cottage.png",
+		"isSpecial" : true
+	},
+	"homestead": {
+		"graphics": "rampart/homestead.png",
+		"isSpecial" : true
+	},
+	"enchanted_spring": {
+		"graphics": "rampart/enchanted_spring.png",
+		"isSpecial" : true
+	},
+	"dendroid_arches": {
+		"graphics": "rampart/dendroid_arches.png",
+		"isSpecial" : true
+	},	
+	"unicorn_glade": {
+		"graphics": "rampart/unicorn_glade.png",
+		"isSpecial" : true
+	},
+	"dragon_cliffs": {
+		"graphics": "rampart/dragon_cliffs.png",
+		"isSpecial" : true
+	},
+	
+//tower
+	"workshop": {
+		"graphics": "tower/workshop.png",
+		"isSpecial" : true
+	},
+	"parapet": {
+		"graphics": "tower/parapet.png",
+		"isSpecial" : true
+	},
+	"golem_factory": {
+		"graphics": "tower/golem_factory.png",
+		"isSpecial" : true
+	},
+	"mage_tower": {
+		"graphics": "tower/mage_tower.png",
+		"isSpecial" : true
+	},
+	"altar_of_wishes": {
+		"graphics": "tower/altar_of_wishes.png",
+		"isSpecial" : true
+	},	
+	"golden_pavilion": {
+		"graphics": "tower/golden_pavilion.png",
+		"isSpecial" : true
+	},
+	"cloud_temple": {
+		"graphics": "tower/cloud_temple.png",
+		"isSpecial" : true
+	},
+	
+//inferno
+	"imp_crucible": {
+		"graphics": "inferno/imp_crucible.png",
+		"isSpecial" : true
+	},
+	"hall_of_sins": {
+		"graphics": "inferno/hall_of_sins.png",
+		"isSpecial" : true
+	},
+	"kennels": {
+		"graphics": "inferno/kennels.png",
+		"isSpecial" : true
+	},
+	"demon_gate": {
+		"graphics": "inferno/demon_gate.png",
+		"isSpecial" : true
+	},
+	"hell_hole": {
+		"graphics": "inferno/hell_hole.png",
+		"isSpecial" : true
+	},	
+	"fire_lake": {
+		"graphics": "inferno/fire_lake.png",
+		"isSpecial" : true
+	},
+	"forsaken-palace": {
+		"graphics": "inferno/forsaken-palace.png",
+		"isSpecial" : true
+	},
+	
+//necropolis
+	"cursed_temple": {
+		"graphics": "necropolis/cursed_temple.png",
+		"isSpecial" : true
+	},
+	"graveyard": {
+		"graphics": "necropolis/graveyard.png",
+		"isSpecial" : true
+	},
+	"tomb_of_souls": {
+		"graphics": "necropolis/tomb_of_souls.png",
+		"isSpecial" : true
+	},
+	"estate": {
+		"graphics": "necropolis/estate.png",
+		"isSpecial" : true
+	},
+	"mausoleum": {
+		"graphics": "necropolis/mausoleum.png",
+		"isSpecial" : true
+	},	
+	"hall_of_darkness": {
+		"graphics": "necropolis/hall_of_darkness.png",
+		"isSpecial" : true
+	},
+	"dragon_vault": {
+		"graphics": "necropolis/dragon_vault.png",
+		"isSpecial" : true
+	},
+	
+//dungeon
+	"warren": {
+		"graphics": "dungeon/warren.png",
+		"isSpecial" : true
+	},
+	"harpy_loft": {
+		"graphics": "dungeon/harpy_loft.png",
+		"isSpecial" : true
+	},
+	"pillar_of_eyes": {
+		"graphics": "dungeon/pillar_of_eyes.png",
+		"isSpecial" : true
+	},
+	"medusa_chapel": {
+		"graphics": "dungeon/medusa_chapel.png",
+		"isSpecial" : true
+	},
+	"labyrinth": {
+		"graphics": "dungeon/labyrinth.png",
+		"isSpecial" : true
+	},	
+	"manticore_lair": {
+		"graphics": "dungeon/manticore_lair.png",
+		"isSpecial" : true
+	},
+	"dragon_cave": {
+		"graphics": "dungeon/dragon_cave.png",
+		"isSpecial" : true
+	},
+	
+//stronghold
+	"goblin_barracks": {
+		"graphics": "stronghold/goblin_barracks.png",
+		"isSpecial" : true
+	},
+	"wolf_pen": {
+		"graphics": "stronghold/wolf_pen.png",
+		"isSpecial" : true
+	},
+	"orc_tower": {
+		"graphics": "stronghold/orc_tower.png",
+		"isSpecial" : true
+	},
+	"ogre_fort": {
+		"graphics": "stronghold/ogre_fort.png",
+		"isSpecial" : true
+	},
+	"cliff_nest": {
+		"graphics": "stronghold/cliff_nest.png",
+		"isSpecial" : true
+	},	
+	"cyclops_cave": {
+		"graphics": "stronghold/cyclops_cave.png",
+		"isSpecial" : true
+	},
+	"behemoth_crag": {
+		"graphics": "stronghold/behemoth_crag.png",
+		"isSpecial" : true
+	},
+	
+//fortress
+	"gnoll_hut": {
+		"graphics": "fortress/gnoll_hut.png",
+		"isSpecial" : true
+	},
+	"lizard_den": {
+		"graphics": "fortress/lizard_den.png",
+		"isSpecial" : true
+	},
+	"serpent_fly_hive": {
+		"graphics": "fortress/serpent_fly_hive.png",
+		"isSpecial" : true
+	},
+	"basilisk_pit": {
+		"graphics": "fortress/basilisk_pit.png",
+		"isSpecial" : true
+	},
+	"gorgon_lair": {
+		"graphics": "fortress/gorgon_lair.png",
+		"isSpecial" : true
+	},	
+	"wyvern_nest": {
+		"graphics": "fortress/wyvern_nest.png",
+		"isSpecial" : true
+	},
+	"hydra_pond": {
+		"graphics": "fortress/hydra_pond.png",
+		"isSpecial" : true
+	},
+
+//conflux
+	"magic_lantern": {
+		"graphics": "conflux/magic_lantern.png",
+		"isSpecial" : true
+	},
+	"altar_of_air": {
+		"graphics": "conflux/altar_of_air.png",
+		"isSpecial" : true
+	},
+	"altar_of_water": {
+		"graphics": "conflux/altar_of_water.png",
+		"isSpecial" : true
+	},
+	"altar_of_fire": {
+		"graphics": "conflux/altar_of_fire.png",
+		"isSpecial" : true
+	},
+	"altar_of_earth": {
+		"graphics": "conflux/altar_of_earth.png",
+		"isSpecial" : true
+	},	
+	"altar_of_thought": {
+		"graphics": "conflux/altar_of_thought.png",
+		"isSpecial" : true
+	},
+	"pyre": {
+		"graphics": "conflux/pyre.png",
+		"isSpecial" : true
+	},
+	"elemental_conflux": {
+		"graphics": "conflux/elemental_conflux.png",
+		"isSpecial" : true
+	},
+
+//neutral
+	"frozen_cliffs": {
+		"graphics": "neutral/frozen_cliffs.png",
+		"isSpecial" : true
+	},
+	"crystal_cavern": {
+		"graphics": "neutral/crystal_cavern.png",
+		"isSpecial" : true
+	},
+	"magic_forest": {
+		"graphics": "neutral/magic_forest.png",
+		"isSpecial" : true
+	},
+	"sulfurous_lair": {
+		"graphics": "neutral/sulfurous_lair.png",
+		"isSpecial" : true
+	},
+	"enchanters_hollow": {
+		"graphics": "neutral/enchanters_hollow.png",
+		"isSpecial" : true
+	},	
+	"treetop_tower": {
+		"graphics": "neutral/treetop_tower.png",
+		"isSpecial" : true
+	},
+	"thatched_hut": {
+		"graphics": "neutral/thatched_hut.png",
+		"isSpecial" : true
+	},
+	"hovel": {
+		"graphics": "neutral/hovel.png",
+		"isSpecial" : true
+	},
+	"boar_glen": {
+		"graphics": "neutral/boar_glen.png",
+		"isSpecial" : true
+	},
+	"tomb_of_curses": {
+		"graphics": "neutral/tomb_of_curses.png",
+		"isSpecial" : true
+	},
+	"nomad_tent": {
+		"graphics": "neutral/nomad_tent.png",
+		"isSpecial" : true
+	},	
+	"rogue_cavern": {
+		"graphics": "neutral/rogue_cavern.png",
+		"isSpecial" : true
+	},
+	"troll_bridge": {
+		"graphics": "neutral/troll_bridge.png",
+		"isSpecial" : true
+	},
+	"cyclops_stockpile": {
+		"graphics": "banks/cyclops_stockpile.png",
+		"isSpecial" : true
+	},
+	"dwarven_treasury": {
+		"graphics": "banks/dwarven_treasury.png",
+		"isSpecial" : true
+	},
+	"griffin_conservatory": {
+		"graphics": "banks/griffin_conservatory.png",
+		"isSpecial" : true
+	},
+	"imp_cache": {
+		"graphics": "banks/imp_cache.png",
+		"isSpecial" : true
+	},
+	"medusa_store": {
+		"graphics": "banks/medusa_store.png",
+		"isSpecial" : true
+	},
+	"naga_bank": {
+		"graphics": "banks/naga_bank.png",
+		"isSpecial" : true
+	},	
+	"dragon_fly_hive": {
+		"graphics": "banks/dragon_fly_hive.png",
+		"isSpecial" : true
+	},	
+	"shipwreck": {
+		"graphics": "banks/shipwreck.png",
+		"isSpecial" : true
+	},	
+//	"derelict_ship": {
+//		"graphics": "banks/derelict_ship.png",
+//		"isSpecial" : true
+//	},	
+	"crypt": {
+		"graphics": "banks/crypt",
+		"isSpecial" : true
+	},	
+	"dragon_utopia": {
+		"graphics": "banks/dragon_utopia.png",
+		"isSpecial" : true
+	},
+	"pyramid": {
+		"graphics": "banks/pyramid.png",
+		"isSpecial" : true
+	}
+}
