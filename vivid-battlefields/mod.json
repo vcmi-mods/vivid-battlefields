@@ -4,9 +4,10 @@
 	"author" : "fanofheroes",
 	"contact" : "http://heroescommunity.com/viewthread.php3?TID=47183",
 	"modType" : "Graphical",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"changelog" :
 	{
+		"1.0.1"   : [ "Czech translation by George King" ],
 		"1.0.0"   : [ "Initial release" ]
 	},
 	"compatibility" :
@@ -20,5 +21,9 @@
 	"battlefields" :
 	[
 		"config/vbattlefields"
-	]
+	],
+	"czech" : {
+		"name": "Živá obydlí",
+		"description": "Nové unikátní bojiště pro každé obydlí."
+	}
 }
