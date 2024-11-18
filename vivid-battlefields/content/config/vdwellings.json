@@ -275,7 +275,7 @@
 			"griffinConservatory" : {
 				"battleground": "vivid-battlefields:griffin_conservatory"
 			},
-			"inpCache" : {
+			"impCache" : {
 				"battleground": "vivid-battlefields:imp_cache"
 			},
 			"medusaStore" : {
