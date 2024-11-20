@@ -16,5 +16,9 @@
     "objects" :
     [ 
 		"config/lowlevelguards"
-    ]
+    ],
+	"czech" : {
+		"name" : "Stráže nižších úrovní",
+		"description" : "Obydlí jednotek úrovně 1–4 mají své vlastní stráže a grafiku bitevních polí."
+	}
 }
